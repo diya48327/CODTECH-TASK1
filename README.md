@@ -1,4 +1,11 @@
 # CODTECH-TASK1
+Name:Diya Saha
+Company:CODTECT IT SOLUTIONS
+ID:CT12DS1931
+Domain:Cyber Security & Ethical Hacking
+Duration:JULY to SEPTEMBER 2024
+Mentor:Muzammil Ahmed
+
 Project Documentation for Password Strength Assessment Tool
 1. Project Overview
 Project Name: Password Strength Assessment Tool
